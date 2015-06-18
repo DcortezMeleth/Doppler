@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Doppler</string>
+
+    <string name="hello_world">Hello in Doppler effect demo app!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="push">Push detected!</string>
+    <string name="pull">Pull detected!</string>
+    <string name="tap">Tap detected!</string>
+    <string name="double_tap">Double tap detected!</string>
+</resources>
